@@ -25,7 +25,7 @@ import (
 
 	"golang.org/x/net/websocket"
 
-	"oak.snr.missouri.edu/daveradio/newopenhpsdr"
+	"github.com/TAPR/OpenHPSDR-Protocol2-Programmers/newopenhpsdr"
 )
 
 // Server address and port
